@@ -3,51 +3,47 @@ AI工具
 
 Elon Mask
 X
-Grok
+Grok4.1
+Grok4.2
+
+OpenAI
+Gpt5.1
+Sora2
+codex-max
+
+Google
+Gemini 3 Pro
+Nano Banana Pro
+AI Studio
+Flow
+deepmind
+notebookLM
 
 Web3.0
 虚拟卡
 虚拟信用卡
-esim
+
 
 虚拟币
 比特币
 BNB
 以太坊
 
-意大利足球队
 agent
-
-sora2
-AI作图
-
-
-国产单机游戏
+agentzero
+lovart
+notion
+youmind
+muset
 
 电影
 美剧
 
-notion ai
-
-dyad
-
-agentzero
-
-
-
-三体
-刘慈欣
-
 字节
-bytedance
-张一鸣
 豆包
+豆包输入法
+Seedream4.0
 
-特斯拉
-马斯克
-
-微软
-Microsoft
 
 英伟达
 NVIDIA
@@ -55,45 +51,28 @@ NVIDIA
 
 AMD
 
-谷歌
-google
-gemini
-deepmind
-notebookLM
-
-chatgpt
-openai
-sora
-
-claude
 Anthropic
+claude
 
+Apple
 iphone
 ipad
-mac
-ios
+mac studio
 
-ai
-人工智能
+阿里巴巴
+QWEN3-max-thinking
+千问app
+灵光app
 
-自动驾驶
-
-机器人
-
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
+DeepSeek
 
 
-月球
-宇宙
-飞船
+
+
+
+
+
+
+
+
 
